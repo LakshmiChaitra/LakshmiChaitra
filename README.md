@@ -40,6 +40,7 @@ I am a **3rd year CSE student (Applied Mathematics)**.
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge" alt="SQL" />
 </p>
 
 <h3 align="center">AI & machine learning</h3>
@@ -53,24 +54,11 @@ I am a **3rd year CSE student (Applied Mathematics)**.
 </p>
 <p align="center">NLP · LLMs · Generative AI · Deep learning · Prompt engineering · RAG · BiLSTM / sequence models · Speech recognition</p>
 
-<h3 align="center">Data science & information retrieval</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-166b87?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/FAISS-8b72ba?style=for-the-badge" alt="FAISS" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge" alt="SQL" />
-</p>
-<p align="center">K-Means · TF-IDF · Predictive modeling · Statistical analysis · Recommendation systems · BM25 · Document chunking</p>
-
 <h3 align="center">Web & app development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
