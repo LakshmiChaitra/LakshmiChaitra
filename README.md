@@ -35,30 +35,78 @@ I am a **3rd year CSE student (Applied Mathematics)**.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-b49b00?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
 </p>
 
-<h3 align="center">AI, machine learning & data</h3>
+<h3 align="center">AI & machine learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Transformers-8b72ba?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
   <img src="https://img.shields.io/badge/XGBoost-166b87?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Transformers.js-166b87?style=for-the-badge" alt="Transformers.js" />
 </p>
-<p align="center">NLP · LLMs · RAG · BiLSTM · Speech recognition · Predictive modeling · Information retrieval</p>
+<p align="center">NLP · LLMs · Generative AI · Deep learning · Prompt engineering · RAG · BiLSTM / sequence models · Speech recognition</p>
 
-<h3 align="center">Web development & tools</h3>
+<h3 align="center">Data science & information retrieval</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-166b87?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/FAISS-8b72ba?style=for-the-badge" alt="FAISS" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge" alt="SQL" />
+</p>
+<p align="center">K-Means · TF-IDF · Predictive modeling · Statistical analysis · Recommendation systems · BM25 · Document chunking</p>
+
+<h3 align="center">Web & app development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Three.js-222222?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-8b72ba?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
+<p align="center">Responsive design · REST APIs · Browser ML inference · Web Workers · Web Audio API · WebAssembly · PDF.js</p>
+
+<h3 align="center">Cloud, deployment & AI services</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge" alt="Azure ML" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-166b87?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/IBM%20Watson-1261FE?style=for-the-badge" alt="IBM Watson" />
+  <img src="https://img.shields.io/badge/OpenAI%20GPT-166b87?style=for-the-badge" alt="OpenAI GPT" />
+  <img src="https://img.shields.io/badge/Claude%20API-8b72ba?style=for-the-badge" alt="Claude API" />
+</p>
+
+<h3 align="center">Core CS & developer tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker%20%28basics%29-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker (basics)" />
+  <img src="https://img.shields.io/badge/Stim-8b72ba?style=for-the-badge" alt="Stim" />
+</p>
+<p align="center">Data structures & algorithms · DBMS · Operating systems</p>
+
+<h3 align="center">Design & creative tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-8b72ba?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-166b87?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Google%20Flow-4285F4?style=for-the-badge" alt="Google Flow" />
+  <img src="https://img.shields.io/badge/Veo-8b72ba?style=for-the-badge" alt="Veo" />
+</p>
+<p align="center">UI design · AI video generation</p>
 
 ## Featured projects
 
