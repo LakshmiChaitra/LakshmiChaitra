@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Chaitra ✨</h1>
 <h3 align="center">Computer Science · Applied Maths</h3>
 
-<p align="center">Exploring ideas through research. Bringing them to life through code.</p>
+<p align="center">I like turning ideas into code—and learning something new along the way.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LakshmiChaitra&label=PROFILE+VIEWS&color=166b87&style=for-the-badge" alt="Profile views" />
