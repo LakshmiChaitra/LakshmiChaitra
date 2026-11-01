@@ -8,6 +8,11 @@
 <p align="center">Exploring ideas through research. Bringing them to life through code.</p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LakshmiChaitra&label=PROFILE+VIEWS&color=166b87&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/LakshmiChaitra?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLakshmiChaitra&query=%24.public_repos&label=TOTAL%20REPOS&color=166b87&style=for-the-badge&logo=github&logoColor=white" alt="Total public repositories" /></a>
+</p>
+
+<p align="center">
   <a href="https://lakshmichaitra.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=githubpages&logoColor=79e2d2" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/chaitra-p-717157442"><img src="https://img.shields.io/badge/LINKEDIN-166b87?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:chaitracollege@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-8b72ba?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -15,7 +20,7 @@
 
 ## About me
 
-I'm **P. Lakshmi Chaitra**, a Computer Science and Engineering (Applied Mathematics) student at **CR Rao Advanced Institute of Mathematics, Statistics and Computer Science, University of Hyderabad**.
+I am a **3rd year CSE student (Applied Mathematics)**.
 
 - 🗣️ Exploring **NLP, multilingual text, speech, and information retrieval**.
 - 🧠 Building projects with **machine learning, deep learning, and browser-based inference**.
