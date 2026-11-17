@@ -186,4 +186,3 @@ I am a **3rd year CSE student (Applied Mathematics)**.
   <a href="mailto:chaitracollege@gmail.com">Email</a>
 </p>
 <p align="center"><b>Open to:</b> Internships · Research · Collaborations</p>
-<p align="center"><i>Powered by “wait, what if…” ✦</i></p>
